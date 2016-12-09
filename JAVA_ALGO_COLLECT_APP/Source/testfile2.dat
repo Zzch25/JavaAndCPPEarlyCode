@@ -1,0 +1,71 @@
+29 14 18
+Wook1 500 5 5 5
+Wook2 499 5 5 5
+Wook3 498 5 5 5
+Wook4 497 5 5 5
+Wook5 496 5 5 5
+Wook6 495 5 5 5
+Wook7 494 5 5 5
+Wook8 493 5 5 5
+Wook9 492 5 5 5
+Wook10 491 5 5 5
+Wook11 490 5 5 5
+Wook12 489 5 5 5
+Wook13 488 5 5 5
+Wook14 300 4 5 5
+Wook15 299 4 5 5
+Wook16 298 4 5 5
+Wook17 297 4 5 5
+Wook18 296 4 5 5
+Wook19 295 4 5 5
+Wook20 294 4 5 5
+Wook21 293 4 5 5
+Wook22 292 4 5 5
+Wook23 291 4 5 5
+Wook24 290 4 5 5
+Wook25 289 4 5 5
+Wook26 288 4 5 5
+Wook27 287 4 5 5
+Wook28 286 4 5 5
+Wook29 285 4 5 5
+Willamette Valley, Oregon|Party time!|i 1000
+Location 1|intelligence < 5 event|i 5
+Location 2|intelligence < 10 event|i 10
+Location 3|intelligence < 15 event|i 15
+Location 4|engineering < 5 event|e 5
+Location 5|engineering < 10 event|e 10
+Location 6|engineering < 15 event|e 15
+Location 7|fortitude < 5 event|f 5
+Location 8|fortitude < 6 event|f 6
+Location 9|wisdom < 300 event|w 300
+Location 10|wisdom < 280 event|w 280
+Location 11|always occcuring event|i 1000
+Location 12|always occcuring event|i 1000
+Location 13|always occcuring event|i 1000
+Machine 1|0
+Machine 1.5|0
+Machine 2|2
+Machine 2.5|2
+Machine 3|3
+Machine 3.5|3
+Machine 4|4
+Machine 4.5|4
+Machine 5|5
+Machine 5.5|5
+Machine 6|6
+Machine 6.5|6
+Machine 7|7
+Machine 7.5|7
+Unused Machine8|8
+Unused Machine8.5|8
+Unused Machine9|9
+Unused Machine10|10
+
+
+
+
+
+
+
+
+x

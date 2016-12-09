@@ -1,0 +1,25 @@
+2 1 3
+25 500 5 5 5
+24 1 0 0 0
+The Origin Of 25|Discover the Meaning of Life!|i 0
+DYT25|0
+CZM49|10
+The Lopp|5
+
+#####################################################################INSTRUCTIONS
+
+The Top Line
+-# Wookies
+-# Locations
+-# Time Machines
+
+Format For Types
+-Wookies
+..-Name Age(1-500) Rank Engineering Fortitude
+-Locations
+..-Name |(End Name) Event Name |(End Event Name) Type(i:intelligence, 
+   e:engineering, f:fortitude, w:wisdom) Rating(0-500)
+-Time Machine
+..-Name |(End Name) Instability(0-10)
+
+#####################################################################INSTRUCTIONS
