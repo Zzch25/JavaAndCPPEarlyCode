@@ -1,0 +1,36 @@
+buttons
+file
+-load
+-exit
+-help
+
+start/resume game
+options
+-difficulty
+-(later) players
+--customization
+-high score
+
+
+
+collision
+-arraylist ships inputs
+-check if in collision with anything
+--zscm 1st gen automatic code
+asteriods
+-float
+-destroy
+-remove
+ship
+-turn
+-move
+projectile
+-move
+-momentum
+score
+ai
+-input to move
+-asteroids get pos 
+
+.save state
+.add the equation
