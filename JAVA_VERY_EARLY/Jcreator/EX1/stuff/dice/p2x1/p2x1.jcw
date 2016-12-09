@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>p2x1</label>
+	</settings>
+	<users>
+		<user>
+			<path>p2x1.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>p2x1.jcp</path>
+		</project>
+	</projects>
+</workspace>
