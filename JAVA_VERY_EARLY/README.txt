@@ -1,1 +1,1 @@
-This code is the earliest I have on record aside from Pong. It is from early highschool and later on before college.
+This code is the earliest I have on record aside from Pong. It is from early highschool and later on before college. Note the netbeans project was incomplete. I ran out of time as I had challeneged myself to do it in slightly over 24 hours. Netbeans proved to have a steeper learning curve than expected.
