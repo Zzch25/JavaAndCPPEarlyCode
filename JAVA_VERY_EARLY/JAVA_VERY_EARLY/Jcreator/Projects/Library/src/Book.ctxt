@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=input\ title\ author
+comment0.target=Book(double,\ String,\ String)
+comment1.params=other
+comment1.target=int\ compareTo(Book)
+comment2.target=boolean\ isOut()
+comment3.target=double\ getISBN()
+comment4.target=String\ toString()
+numComments=5
